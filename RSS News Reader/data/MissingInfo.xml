@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Test File</title>
+    <link>https://www.apple.com</link>
+    <description>All testing purposes</description>
+    <item>
+      <title>Full item</title>
+      <description>No Description</description>
+      <link>https://www.google.com</link>
+      <pubDate>09/28/22</pubDate>
+      <source url="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Don't Click this</source>
+    </item>
+    <item>
+      <description>Only description</description>
+      <link>https://www.google.com</link>
+      <pubDate>09/28/22</pubDate>
+    </item>   
+    <item>
+      <title></title>
+      <description>No Link</description>
+    </item>
+    <item>
+      <title>CSE 2221</title>
+      <description>No Description</description>
+      <link>http://web.cse.ohio-state.edu/software/2221/web-sw1/</link>
+      <source url="http://web.cse.ohio-state.edu/software/2221/web-sw1/syllabus.html">Syllabus</source>
+    </item>
+    <item>
+      <title>MS</title>
+      <link></link>
+      <pubDate>09/23/22</pubDate>
+      <source url="https://www.microsoft.com/en-us/">Microsoft</source>
+    </item>
+  </channel>
+</rss>
